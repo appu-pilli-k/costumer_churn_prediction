@@ -1,0 +1,6 @@
+CreditScore,Geography,Gender,Age,Balance,NumOfProducts,IsActiveMember,EstimatedSalary
+619,0,0,42,0.0,1,1,101348.88
+608,1,0,41,83807.86,1,1,112542.58
+502,0,0,42,159660.8,3,0,113931.57
+699,0,0,39,0.0,2,0,93826.63
+850,1,1,43,125510.82,1,1,79084.1
